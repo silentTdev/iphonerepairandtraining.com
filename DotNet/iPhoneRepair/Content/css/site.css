@@ -1,0 +1,417 @@
+.container {
+    height: auto;
+    width: 100%;
+    background-color: #353535;
+}
+
+/*navbar*/
+
+.navbar {
+    background-color: #353535;
+    border: none;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#logo {
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.example3 .nav >li >a {
+    padding: 15px;
+    margin-top: 50px;
+    color: white;
+    font-size: 1.1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.example3 .navbar-toggle {
+    padding: 10px;
+    margin: 25px 15px 25px 0;
+}
+
+.example3 .navbar-brand img {
+    height: 120px;
+    width: auto;
+}
+
+.navbar-header a {
+    margin-left: 30px;
+}
+#navbar3 ul {
+    margin-right: 30px;
+    
+}
+
+#navbar3 a {
+    margin-top: 50px;
+}
+
+/*navbar end*/
+
+/*main index*/
+
+
+#traininginformation {
+    margin-top: 160px;
+    background-color: #353535;
+    padding: 20px;
+    height: 600;
+    text-align: center;
+  
+}
+
+#traininginformation h1 {
+    color: white;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#gaminginformation {
+    margin-top: 160px;
+    background-color: #353535;
+    padding: 20px;
+    height: 500px;
+    text-align: center;
+}
+
+#gaminginformation h1, h2{
+    font-size: 2em;
+    color: white;
+    margin-bottom: 20px;
+}
+
+
+
+#contactus {
+    margin-top: 160px;
+    background-color: #353535;
+    text-align: center;
+    height: 500px;
+    
+}
+
+#contactus h1, h2, h3, a {
+    color: white;
+    text-align: center;
+}
+
+#contactus h3 {
+    color: white;
+    text-align: left;
+    font-size: 1em;
+}
+
+.mainbutton {
+    background-color: #486D70;
+}
+
+#repairinformation {
+    margin-top: 160px;
+    background-color: #353535;
+    height: 650px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+#repairinformation h1 {
+    color: white;
+    margin-bottom: 20px;
+    font-size: 2em;
+}
+
+.test {
+    color: white;
+    font-size: 1.5em;
+}
+
+/*main index end*/
+
+/*footer*/
+
+#footer {
+    background-color: #353535;
+    height: auto;
+    color: #d9d9d9;
+    text-align: justify;
+    padding-top: 20px;
+}
+
+
+#footerlogo {
+   text-align: center;
+}
+
+#footer p {
+    font-size: 1.3em;
+    margin-bottom: 20px;
+}
+
+#facebook {
+    background-color: #3B5998;
+    color: white;
+    margin-bottom: 15px;
+}
+
+#twitter {
+    background-color: #55ACEE;
+    color: white;
+    margin-bottom: 15px;
+}
+
+#instagram {
+    background-color: #3F729B;
+    color: white;
+    margin-bottom: 15px;
+}
+
+
+.footerinfo h3 {
+    font-size: 1.4em;
+    margin-top: 11px;
+    color: white;
+}
+
+.list-group .active {
+    background-color: black;
+    color: #8DB600;
+    border: none;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+
+.footerinfo a {
+    text-align: center;
+}
+
+/*end footer*/
+
+/*repair.html*/
+
+.gradientbutton {
+    background: #8db600;
+}
+
+#repairbody {
+    background-color: #353535;
+}
+
+#repairbody h3 {
+    color: white;
+}
+
+
+.panel {
+    background-color: #353535;
+    text-align: center;
+    border-style: none;
+    border-style: none;
+   
+}
+
+.panel img {
+    margin-bottom: 20px;
+}
+
+#repairheader {
+    margin-top: 160px;
+    text-align: center;
+    color: #353535;
+}
+
+#repairheader h1, p {
+    color: white;
+}
+#repairheader h3 {
+    color: red;
+    font-size: 3em;
+}
+
+#repairheader p {
+    font-size: 1.2em;
+}
+
+/*repair.html end*/
+
+/*findus.html*/
+
+#findusheader {
+    margin-top: 160px;
+    text-align: center;
+}
+
+#findusbody {
+    background-color: #353535;
+}
+
+#findusheader h1 {
+    color: white;
+}
+
+#wiseguys h2 {
+    color: white;
+    margin-top: 0px;
+}
+
+#wiseguys img {
+    margin-top: -20;
+}
+
+
+/*training.html*/
+
+#trainingbody {
+    background-color: #353535;
+}
+
+#trainingheader {
+ margin-top: 160px;
+ margin-bottom: 30px;
+}
+
+#trainingheader h2 {
+    color: white;
+    margin-top: 0;
+}
+
+#trainingheader h1, h2{
+    color: white;
+    text-align: center;
+    font-size: 3em;
+}
+
+#workshops {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#workshops h3 {
+    text-align: left;
+}
+
+#workshops h4, ol {
+    color: white;
+}
+
+#onetoone {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#onetoone h3 {
+    text-align: left;
+}
+
+.trainingreservation {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#workshops {
+    margin-top: 0px;
+}
+
+#workshops h2 {
+    margin-top: 0px;
+}
+
+.reservation {
+    background-color: #8DB600;
+}
+
+#athome {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#athome h3 {
+    text-align: left;
+}
+
+
+
+/*training.html end*/
+
+/*aboutme.html*/
+
+.aboutmephoto  {
+    height: 300px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+/*aboutme.html end/
+
+/*common*/
+
+#telephone {
+    color: limegreen;
+}
+
+.phone {
+    text-align: center;
+}
+
+iframe {
+    margin-bottom: 50px;
+}
+
+/*common end*/
+
+
+/*warrenty.html*/
+
+#applecare {
+    border-radius: 20px;
+}
+
+/*warranty.html end*/
+
+
+
+
+@media (max-width: 943px) {
+    #logo {
+    margin-top: 10px;
+    height: 60px;
+    }
+  
+
+}
+
+/*@media (max-width: 1007px) {
+    .example3 .navbar-brand img {
+    margin-top: 10px;
+    height: 75px;
+    padding-bottom: 0px;
+    }
+    #navbar3 ul {
+    display: block;
+    
+    text-align: center;
+    }
+    #navbar3 li a {
+    margin-left: 30px;
+    margin-top: 0px;
+    }
+    .navbar-brand {
+    padding-bottom: 0px;
+    height: 80px;
+    }
+}
+
+@media(min-width:992px){
+ 
+
+
+
+@media(max-width: 767px){
+    #traininginformation {
+       margin-top: 20px;
+    }
+}
+
+/*
