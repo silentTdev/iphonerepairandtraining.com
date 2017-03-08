@@ -50,18 +50,60 @@
     margin-top: 50px;
 }
 
+@media(max-width:767px) {
+    #navbar3 a {
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+}
+
+@media(min-width:992px){
+    .example3 .nav >li >a {
+        margin-top: 0px;
+        
+    }
+}
+
 /*navbar end*/
 
 /*main index*/
 
+#repairinformation {
+    margin-top: 100px;
+    background-color: #353535;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+
+}
+
 
 #traininginformation {
-    margin-top: 160px;
     background-color: #353535;
     padding: 20px;
-    height: 600;
+    height: auto;
     text-align: center;
   
+}
+
+@media(min-width:992px){
+    #repairinformation {
+        margin-top: 160px;
+    }
+    #traininginformation {
+        margin-top: 160px;
+        }
+    #gaminginformation {
+        margin-top: 160px;
+        }
+    
+    }
+
+
+.respond {
+    height: auto;
+    width: 100%;
+    max-width: 400px;
 }
 
 #traininginformation h1 {
@@ -71,10 +113,9 @@
 }
 
 #gaminginformation {
-    margin-top: 160px;
     background-color: #353535;
     padding: 20px;
-    height: 500px;
+    height: auto;
     text-align: center;
 }
 
@@ -109,14 +150,7 @@
     background-color: #486D70;
 }
 
-#repairinformation {
-    margin-top: 160px;
-    background-color: #353535;
-    height: 650px;
-    padding: 20px;
-    text-align: center;
 
-}
 
 #repairinformation h1 {
     color: white;
@@ -148,25 +182,26 @@
 
 #footer p {
     font-size: 1.3em;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
 
 #facebook {
     background-color: #3B5998;
     color: white;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 #twitter {
     background-color: #55ACEE;
     color: white;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 #instagram {
     background-color: #3F729B;
     color: white;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 
@@ -189,6 +224,15 @@
     text-align: center;
 }
 
+.game {
+    height: auto;
+    width: 100%;
+}
+
+.gamediv {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 /*end footer*/
 
 /*repair.html*/
@@ -234,6 +278,14 @@
 
 #repairheader p {
     font-size: 1.2em;
+}
+
+.largescreen {
+    max-height: 400px;
+}
+
+.smallscreen {
+    max-height: 350px;
 }
 
 /*repair.html end*/
@@ -338,8 +390,22 @@
 
 /*aboutme.html*/
 
+.aboutmebody {
+    margin-top: 160px;
+}
+
+#main h1 {
+    color: white;
+    text-align: center;
+}
+
+#main p {
+    margin-bottom: 35px;
+}
+
 .aboutmephoto  {
-    height: 300px;
+    height: auto;
+    width: 100%;
     margin-right: 20px;
     border-radius: 50%;
 }
@@ -415,3 +481,4 @@ iframe {
 }
 
 /*
+
