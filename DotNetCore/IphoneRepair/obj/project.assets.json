@@ -9813,10 +9813,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WORKFOLDER\\iphonerepairandtraining.com\\DotNetCore\\IphoneRepair\\IphoneRepair.csproj",
-      "projectName": "IphoneRepair",
-      "projectPath": "C:\\WORKFOLDER\\iphonerepairandtraining.com\\DotNetCore\\IphoneRepair\\IphoneRepair.csproj",
-      "outputPath": "C:\\WORKFOLDER\\iphonerepairandtraining.com\\DotNetCore\\IphoneRepair\\obj\\",
+      "projectUniqueName": "C:\\WORKFOLDER\\iphonerepairandtraining.com\\DotNetCore\\iPhoneRepair\\iPhoneRepair.csproj",
+      "projectName": "iPhoneRepair",
+      "projectPath": "C:\\WORKFOLDER\\iphonerepairandtraining.com\\DotNetCore\\iPhoneRepair\\iPhoneRepair.csproj",
+      "outputPath": "C:\\WORKFOLDER\\iphonerepairandtraining.com\\DotNetCore\\iPhoneRepair\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
