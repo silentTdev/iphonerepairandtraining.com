@@ -16,13 +16,16 @@
 
 #logo {
     height: 100px;
-    margin-top: 20px;
-    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    
 }
+
+
 
 .example3 .nav >li >a {
     padding: 15px;
-    margin-top: 50px;
+    margin-top: 25px;
     color: white;
     font-size: 1.1em;
     font-family: Verdana, Geneva, Tahoma, sans-serif
@@ -47,7 +50,7 @@
 }
 
 #navbar3 a {
-    margin-top: 50px;
+    margin-top: 25px;
 }
 
 @media(max-width:767px) {
@@ -62,6 +65,15 @@
         margin-top: 0px;
         
     }
+}
+
+.dropdown-header {
+    text-align: center;
+}
+
+#test {
+    display: block;
+    margin-left: 15px;
 }
 
 /*navbar end*/
@@ -80,10 +92,27 @@
 
 #traininginformation {
     background-color: #353535;
+    margin-top: 40px;
     padding: 20px;
     height: auto;
     text-align: center;
   
+}
+
+#gaminginformation {
+    margin-top: 40px;
+    background-color: #353535;
+    padding: 20px;
+    height: auto;
+    text-align: center;
+}
+
+#contactus {
+    margin-top: 40px;
+    background-color: #353535;
+    text-align: center;
+    height: 500px;
+    
 }
 
 @media(min-width:992px){
@@ -96,7 +125,9 @@
     #gaminginformation {
         margin-top: 160px;
         }
-    
+     #contactus {
+         margin-top: 160px;
+     }
     }
 
 
@@ -112,27 +143,12 @@
     margin-bottom: 20px;
 }
 
-#gaminginformation {
-    background-color: #353535;
-    padding: 20px;
-    height: auto;
-    text-align: center;
-}
+
 
 #gaminginformation h1, h2{
     font-size: 2em;
     color: white;
     margin-bottom: 20px;
-}
-
-
-
-#contactus {
-    margin-top: 160px;
-    background-color: #353535;
-    text-align: center;
-    height: 500px;
-    
 }
 
 #contactus h1, h2, h3, a {
@@ -143,9 +159,12 @@
 #contactus h3 {
     color: white;
     text-align: left;
-    font-size: 1em;
+
 }
 
+#contactus a {
+    font-size: 1.5em;
+}
 .mainbutton {
     background-color: #486D70;
 }
@@ -201,7 +220,7 @@
 #instagram {
     background-color: #3F729B;
     color: white;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 
@@ -227,11 +246,16 @@
 .game {
     height: auto;
     width: 100%;
+    max-height: 300px;
 }
 
 .gamediv {
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+#websiteinfo {
+    text-align: center;
 }
 /*end footer*/
 
@@ -314,6 +338,37 @@
     margin-top: -20;
 }
 
+/*findus.html end*/
+
+/*aboutus.html*/
+
+#aboutusbody {
+    margin-top: 160px;
+}
+
+/*aboutus.html end*/
+
+/*gaming.html*/
+
+#gamingbody {
+    margin-top: 160px;
+}
+
+.gamingimage {
+    height: auto;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+
+#gamingbody h1 {
+    color: white;
+    text-align: center;
+}
+/*gaming.html end*/
+
+
 
 /*training.html*/
 
@@ -323,7 +378,7 @@
 
 #trainingheader {
  margin-top: 160px;
- margin-bottom: 30px;
+ margin-bottom: 20px;
 }
 
 #trainingheader h2 {
@@ -337,10 +392,10 @@
     font-size: 3em;
 }
 
-#workshops {
+/*#workshops {
     padding-left: 50px;
     padding-right: 50px;
-}
+}*/
 
 #workshops h3 {
     text-align: left;
@@ -350,10 +405,12 @@
     color: white;
 }
 
-#onetoone {
+/*#onetoone {
     padding-left: 50px;
     padding-right: 50px;
 }
+
+*/
 #onetoone h3 {
     text-align: left;
 }
@@ -376,10 +433,11 @@
     background-color: #8DB600;
 }
 
-#athome {
+/*#athome {
     padding-left: 50px;
     padding-right: 50px;
 }
+*/
 #athome h3 {
     text-align: left;
 }
