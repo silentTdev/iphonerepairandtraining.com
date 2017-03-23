@@ -1,3 +1,7 @@
+body {
+    background-color: #353535;
+}
+
 .container { height: auto; width: 100%; background-color: #353535; }
 
 /*navbar*/
@@ -238,10 +242,49 @@ iframe { margin-bottom: 50px; }
 
 /*warranty.html end*/
 
+/*testimonials.html*/
+.testimonial 
+    {
+        height: auto;
+        background: white;
+        color: black;
+        border-radius: 8px;
+        padding: 15px;
+        text-align: center;
+        margin-top: 15px;
+    }
+
+.testimonial h3, .testimonial p
+    {
+        color: black;
+
+    }
+
+.testimonial p {
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.testimonial img
+    {
+        border-radius: 50%;
+        height: 150px;
+       
+    }
+
+.testimonial h4
+    {
+        font-size: 1.7em;
+    }
 
 
 
-@media (max-width: 943px) {
+
+
+
+
+
+@media (max-width: 1094px) {
     #logo { margin-top: 10px; height: 60px; }
 }
  
