@@ -1,0 +1,23 @@
+{
+  "name": "iphonerepair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/knockout": "^3.4.40"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentTdev/iphonerepairandtraining.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentTdev/iphonerepairandtraining.com/issues"
+  },
+  "homepage": "https://github.com/silentTdev/iphonerepairandtraining.com#readme"
+}
