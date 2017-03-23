@@ -1,0 +1,9 @@
+C:\WORKFOLDER\iphonerepairandtraining.com\DotNetCore\iPhoneRepair\bin\Debug\netcoreapp1.1\iPhoneRepair.deps.json
+C:\WORKFOLDER\iphonerepairandtraining.com\DotNetCore\iPhoneRepair\bin\Debug\netcoreapp1.1\iPhoneRepair.runtimeconfig.json
+C:\WORKFOLDER\iphonerepairandtraining.com\DotNetCore\iPhoneRepair\bin\Debug\netcoreapp1.1\iPhoneRepair.runtimeconfig.dev.json
+C:\WORKFOLDER\iphonerepairandtraining.com\DotNetCore\iPhoneRepair\obj\Debug\netcoreapp1.1\iPhoneRepair.csprojResolveAssemblyReference.cache
+C:\WORKFOLDER\iphonerepairandtraining.com\DotNetCore\iPhoneRepair\bin\Debug\netcoreapp1.1\iPhoneRepair.dll
+C:\WORKFOLDER\iphonerepairandtraining.com\DotNetCore\iPhoneRepair\bin\Debug\netcoreapp1.1\iPhoneRepair.pdb
+C:\WORKFOLDER\iphonerepairandtraining.com\DotNetCore\iPhoneRepair\obj\Debug\netcoreapp1.1\iPhoneRepair.AssemblyInfo.cs
+C:\WORKFOLDER\iphonerepairandtraining.com\DotNetCore\iPhoneRepair\obj\Debug\netcoreapp1.1\iPhoneRepair.dll
+C:\WORKFOLDER\iphonerepairandtraining.com\DotNetCore\iPhoneRepair\obj\Debug\netcoreapp1.1\iPhoneRepair.pdb
