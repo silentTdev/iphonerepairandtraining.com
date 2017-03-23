@@ -1,0 +1,7 @@
+﻿{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "sourceMap": true
+    }
+}

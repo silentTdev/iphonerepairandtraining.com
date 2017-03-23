@@ -1,0 +1,16 @@
+{
+  "name": "iphonerepair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/jquery": "^2.0.41",
+    "@types/lodash": "^4.14.55"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew O'Leary",
+  "license": "ISC"
+}
