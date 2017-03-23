@@ -56,5 +56,10 @@ namespace iPhoneRepair.Controllers
         {
             return View();
         }
+		[Route("/testimonials.html")]
+		public IActionResult Testimonials()
+		{
+			return View();
+		}
     }
 }
