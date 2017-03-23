@@ -1,9 +1,0 @@
-/Users/jacobtschirgi/Desktop/SilentTSolutions/WebsiteOriginal/iphonerepairandtraining.com/DotNetCore/iPhoneRepair/bin/Debug/netcoreapp1.1/iPhoneRepair.deps.json
-/Users/jacobtschirgi/Desktop/SilentTSolutions/WebsiteOriginal/iphonerepairandtraining.com/DotNetCore/iPhoneRepair/bin/Debug/netcoreapp1.1/iPhoneRepair.runtimeconfig.json
-/Users/jacobtschirgi/Desktop/SilentTSolutions/WebsiteOriginal/iphonerepairandtraining.com/DotNetCore/iPhoneRepair/bin/Debug/netcoreapp1.1/iPhoneRepair.runtimeconfig.dev.json
-/Users/jacobtschirgi/Desktop/SilentTSolutions/WebsiteOriginal/iphonerepairandtraining.com/DotNetCore/IphoneRepair/bin/Debug/netcoreapp1.1/iPhoneRepair.dll
-/Users/jacobtschirgi/Desktop/SilentTSolutions/WebsiteOriginal/iphonerepairandtraining.com/DotNetCore/IphoneRepair/bin/Debug/netcoreapp1.1/iPhoneRepair.pdb
-/Users/jacobtschirgi/Desktop/SilentTSolutions/WebsiteOriginal/iphonerepairandtraining.com/DotNetCore/IphoneRepair/obj/Debug/netcoreapp1.1/iPhoneRepair.csprojResolveAssemblyReference.cache
-/Users/jacobtschirgi/Desktop/SilentTSolutions/WebsiteOriginal/iphonerepairandtraining.com/DotNetCore/IphoneRepair/obj/Debug/netcoreapp1.1/iPhoneRepair.AssemblyInfo.cs
-/Users/jacobtschirgi/Desktop/SilentTSolutions/WebsiteOriginal/iphonerepairandtraining.com/DotNetCore/IphoneRepair/obj/Debug/netcoreapp1.1/iPhoneRepair.dll
-/Users/jacobtschirgi/Desktop/SilentTSolutions/WebsiteOriginal/iphonerepairandtraining.com/DotNetCore/IphoneRepair/obj/Debug/netcoreapp1.1/iPhoneRepair.pdb
