@@ -52,7 +52,8 @@ body {
     #repairinformation { margin-top: 160px; }
     #traininginformation { margin-top: 160px; }
     #gaminginformation { margin-top: 160px; }
-    #contactus { margin-top: 160px; }
+    #contactus { margin-top: 110px; 
+    margin-bottom: 30px;}
 }
 
 
@@ -64,9 +65,9 @@ body {
 
 #gaminginformation h1, h2 { font-size: 2em; color: white; margin-bottom: 20px; }
 
-#contactus h1, h2, h3, a { color: white; text-align: center; }
+#contactus h1, h2, h3, a { color: white; text-align: center; font-size: 1em; }
 
-#contactus h3 { color: white; text-align: left; }
+#contactus h2 { color: white; text-align: center; font-size: 1.3em; }
 
 #contactus a { font-size: 1.5em; }
 .mainbutton { background-color: #486D70; }
@@ -257,6 +258,7 @@ iframe { margin-bottom: 50px; }
 .testimonial h3, .testimonial p
     {
         color: black;
+        font-size: 1.7em;
 
     }
 
@@ -287,4 +289,32 @@ iframe { margin-bottom: 50px; }
 @media (max-width: 1094px) {
     #logo { margin-top: 10px; height: 60px; }
 }
- 
+
+/*
+@media (max-width: 910px) {
+   .navbar-header {
+        float: none;
+    }
+   .navbar-toggle {
+        display: block;
+
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+*/
