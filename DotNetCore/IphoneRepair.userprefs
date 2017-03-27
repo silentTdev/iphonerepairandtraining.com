@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{DE5DF643-21FA-4145-BD76-1F4FA7F548ED}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IphoneRepair/wwwroot/css/bootstrap-theme.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IphoneRepair/wwwroot/css/site.css">
     <Files>
       <File FileName="IphoneRepair/Views/Home/AboutMe.cshtml" Line="1" Column="1" />
       <File FileName="IphoneRepair/Views/Home/AboutUs.cshtml" Line="1" Column="1" />
@@ -11,11 +11,11 @@
       <File FileName="IphoneRepair/Views/Home/SilentTSolutions.cshtml" Line="1" Column="1" />
       <File FileName="IphoneRepair/Views/Home/Training.cshtml" Line="1" Column="1" />
       <File FileName="IphoneRepair/Views/Home/Testimonials.cshtml" Line="34" Column="24" />
-      <File FileName="IphoneRepair/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="IphoneRepair/wwwroot/css/site.css" Line="296" Column="4" />
       <File FileName="IphoneRepair/Controllers/HomeController.cs" Line="1" Column="1" />
       <File FileName="IphoneRepair/Program.cs" Line="1" Column="1" />
-      <File FileName="IphoneRepair/wwwroot/css/bootstrap.css" Line="184" Column="18" />
-      <File FileName="IphoneRepair/wwwroot/css/bootstrap-theme.css" Line="1" Column="1" />
+      <File FileName="IphoneRepair/wwwroot/css/bootstrap.css" Line="4330" Column="2" />
+      <File FileName="IphoneRepair/wwwroot/css/bootstrap-theme.css" Line="338" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
