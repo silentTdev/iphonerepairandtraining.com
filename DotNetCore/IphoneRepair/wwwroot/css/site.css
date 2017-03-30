@@ -75,6 +75,8 @@ body {
 
 
 #repairinformation h1 { color: white; margin-bottom: 20px; font-size: 2em; }
+#repairinformation h2 { color: red; font-size: 1.7em;}
+#repairbody h4 { color: white; font-size 1.5em;}
 
 .test { color: white; font-size: 1.5em; }
 
