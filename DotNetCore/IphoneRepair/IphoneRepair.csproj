@@ -11,11 +11,13 @@
   <ItemGroup>
     <Content Remove="tsconfig.json" />
     <Content Remove="wwwroot\css\animista.css" />
+    <Content Remove="Views\Home\AboutMe %28copy%29.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="Properties\PublishProfiles\beta.iphonerepairandtraining.com - Web Deploy.pubxml" />
     <None Remove="Properties\PublishProfiles\CustomProfile.pubxml" />
+    <None Remove="EmptyHtmlFile.html" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />

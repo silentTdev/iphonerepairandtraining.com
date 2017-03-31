@@ -320,3 +320,9 @@ iframe { margin-bottom: 50px; }
     }
 }
 */
+
+#repairoptions {margin-top: 150px; text-align: center; }
+
+#repairoptions img {max-height: 375px; }
+
+#repairoptions #iphones {display: none;}

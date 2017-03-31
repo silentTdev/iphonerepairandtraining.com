@@ -1,21 +1,27 @@
 ﻿<Properties StartupConfiguration="{DE5DF643-21FA-4145-BD76-1F4FA7F548ED}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IphoneRepair/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IphoneRepair/wwwroot/css/site.css">
     <Files>
-      <File FileName="IphoneRepair/Views/Home/AboutMe.cshtml" Line="1" Column="1" />
+      <File FileName="IphoneRepair/Views/Home/AboutMe.cshtml" Line="34" Column="7" />
       <File FileName="IphoneRepair/Views/Home/AboutUs.cshtml" Line="1" Column="1" />
       <File FileName="IphoneRepair/Views/Home/Index.cshtml" Line="1" Column="1" />
       <File FileName="IphoneRepair/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
       <File FileName="IphoneRepair/Views/Home/FindUs.cshtml" Line="1" Column="1" />
       <File FileName="IphoneRepair/Views/Home/Gaming.cshtml" Line="1" Column="1" />
-      <File FileName="IphoneRepair/Views/Home/Repairs.cshtml" Line="1" Column="1" />
+      <File FileName="IphoneRepair/Views/Home/Repairs.cshtml" Line="115" Column="3" />
       <File FileName="IphoneRepair/Views/Home/SilentTSolutions.cshtml" Line="1" Column="1" />
       <File FileName="IphoneRepair/Views/Home/Training.cshtml" Line="1" Column="1" />
       <File FileName="IphoneRepair/Views/Home/Testimonials.cshtml" Line="34" Column="24" />
-      <File FileName="IphoneRepair/wwwroot/css/site.css" Line="296" Column="4" />
-      <File FileName="IphoneRepair/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="IphoneRepair/wwwroot/css/site.css" Line="328" Column="1" />
+      <File FileName="IphoneRepair/Controllers/HomeController.cs" Line="64" Column="2" />
       <File FileName="IphoneRepair/Program.cs" Line="1" Column="1" />
       <File FileName="IphoneRepair/wwwroot/css/bootstrap.css" Line="4330" Column="2" />
       <File FileName="IphoneRepair/wwwroot/css/bootstrap-theme.css" Line="338" Column="9" />
+      <File FileName="IphoneRepair/EmptyHtmlFile.html" Line="9" Column="1" />
+      <File FileName="IphoneRepair/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="iPhoneRepair/Views/Home/Devices.cshtml" Line="95" Column="15" />
+      <File FileName="IphoneRepair/Views/Home/repairoptions.cshtml" Line="32" Column="15" />
+      <File FileName="IphoneRepair/Views/Home/Warranty.cshtml" Line="1" Column="1" />
+      <File FileName="IphoneRepair/wwwroot/css/site.min.css" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
