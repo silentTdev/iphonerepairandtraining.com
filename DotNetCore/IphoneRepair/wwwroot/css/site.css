@@ -323,6 +323,14 @@ iframe { margin-bottom: 50px; }
 
 #repairoptions {margin-top: 150px; text-align: center; }
 
-#repairoptions img {max-height: 375px; }
+#repairoptions img {height: 375px; }
+
+#repairoptions h4 {color: white; font-size: 1.7em;}
+
+#repairoptions h2 {margin-top: 10px;}
  
-section { display:none; }
+section { display:none;  }
+
+@media (max-width: 917px) {
+	#devicebuttons img {height: 150px;}
+	#repairoptions h2 {font-size: 1.5em}

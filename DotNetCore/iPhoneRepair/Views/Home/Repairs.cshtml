@@ -10,8 +10,22 @@
         {
             $('#btnIphones').click(function ()
             {
+            	$('section').hide();
+                $('#iphones').slideDown(2000);
 
-                $('#iphones').slideDown(3000);
+            });
+
+
+            $('#btnIpads').click(function ()
+            {
+            	$('section').hide();
+                $('#ipad').slideDown(2000);
+
+            });
+			$('#btnsamsung').click(function ()
+			{
+				$('section').hide();
+				$('#samsung').slideDown(2000);
 
             });
         });
@@ -19,18 +33,19 @@
 } 
 
 <div id="repairoptions" class="main">
-    <div class="row">
-        <div class="col-xs-4">
-            <img id="btnIphones" style="cursor:pointer" src="images/iphones.png" alt="iphones" />
-            <h2>iPhones</h2>
+    <div class="row" id="devicebuttons">
+        <div class="col-xs-4 devicebtn">
+            <img id="btnIphones" style="cursor:pointer" src="images/iphones.png" alt="iPhones" />
+
+            <h2 style="cursor:pointer">iPhones</h2>
         </div>
-        <div class="col-xs-4">
-            <img src="images/ipads.png" alt="ipads" />
-            <h2>iPads</h2>
+         <div class="col-xs-4 devicebtn">
+            <img id="btnIpads" style="cursor:pointer" src="images/ipads.png" alt="iPads" />
+            <h2 style="cursor:pointer">iPads</h2>
         </div>
-        <div class="col-xs-4">
-            <img src="images/samsungproducts.png" alt="Sam" />
-            <h2>Samsung</h2>
+        <div class="col-xs-4 devicebtn">
+            <img id="btnsamsung" style="cursor:pointer" src="images/samsungproducts.png" alt="Samsung" />
+            <h2 style="cursor:pointer">Samsung</h2>
         </div>
     </div>
     <section id="iphones" style="display:none">
@@ -38,7 +53,7 @@
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <h4>iPhone 7 & iPhone 7 Plus</h4>
+                        <h4>iPhone 7 & 7 Plus</h4>
                         <img src="images/iphone7.png" class="largescreen" alt="iPhone 7">
                         <div class="col-xs-12">
                             <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
@@ -49,7 +64,7 @@
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <h4>iPhone 6S & iPhone 6S Plus</h4>
+                        <h4>iPhone 6S & 6S Plus</h4>
                         <img src="images/iphone6s.png" class="largescreen" alt="iPhone 7">
                         <div class="col-xs-12">
                             <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
@@ -60,7 +75,7 @@
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <h4>iPhone 6 & iPhone 6 Plus</h4>
+                        <h4>iPhone 6 & 6 Plus</h4>
                         <img src="images/iphone6.png" class="largescreen" alt="iPhone 6">
                         <div class="col-xs-12">
                             <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
@@ -116,5 +131,136 @@
             </div>
         </div>
     </section>
-    <section id="android"></section>
+    <section id="ipad">
+		<div class="row">
+	        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+	            <div class="panel panel-default">
+	                <div class="panel-body">
+	                    <h4>iPad Pro</h4>
+	                    <img src="images/ipadpro.png" class="largescreen" alt="iPad Pro">
+	                    <div class="col-xs-12">
+	                        <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+	            <div class="panel panel-default">
+	                <div class="panel-body">
+	                    <h4>iPad Air 2</h4>
+	                    <img src="images/ipadair2.png" class="largescreen" alt="iPad Air 2">
+	                    <div class="col-xs-12">
+	                        <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+	            <div class="panel panel-default">
+	                <div class="panel-body">
+	                 <h4>iPad Air</h4>
+	                    <img src="images/ipadair.png" class="largescreen" alt="iPad Air">
+	                    <div class="col-xs-12">
+	                        <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+	            <div class="panel panel-default">
+	                <div class="panel-body">
+	                    <h4>iPad 3</h4>
+	                    <img src="images/ipad3.png" class="largescreen" alt="iPad 3">
+	                    <div class="col-xs-12">
+	                        <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	    <div class="row">
+	        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+	            <div class="panel panel-default">
+	                <div class="panel-body">
+	                    <h4>iPad Mini 3</h4>
+	                    <img src="images/ipadmini3white.png" class="largescreen" alt="iPad Mini 3">
+	                    <div class="col-xs-12">
+	                        <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+	            <div class="panel panel-default">
+	                <div class="panel-body">
+	                   <h4>iPad Mini 2</h4>
+	                    <img src="images/ipadminiwhite.png" class="largescreen" alt="iPad Mini 2">
+	                    <div class="col-xs-12">
+	                        <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+	            <div class="panel panel-default">
+	                <div class="panel-body">
+	                    <h4>iPad Mini</h4>
+	                    <img src="images/ipadmini.png" class="largescreen" alt="iPad Mini">
+	                    <div class="col-xs-12">
+	                        <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+	                    </div>
+
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</section>
+	 <section id="samsung" style="display:none">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h4>Galaxy S7 Edge</h4>
+                        <img src="images/galaxys7edge.png" class="smallscreen" alt="Galaxy S7 Edge">
+                        <div class="col-xs-12">
+                            <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h4>Galaxy S6 Edge</h4>
+                        <img src="images/galaxys6edge.png" class="smallscreen" alt="Galaxy S6 Edge">
+                        <div class="col-xs-12">
+                            <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h4>Galaxy S7</h4>
+                        <img src="images/galaxys7.png" class="smallscreen" alt="Galaxy S7">
+                        <div class="col-xs-12">
+                            <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h4>Galaxy S6</h4>
+                        <img src="images/galaxys6.png" class="smallscreen" alt="Galaxy S6">
+                        <div class="col-xs-12">
+                            <a href="tel:13609317488" class="btn-lg btn-success gradientbutton" role="button"><span class="glyphicon glyphicon-usd"></span> Free Quote</a>
+                        </div>
+                    </div>
+                </div>
+			</div>
+        </div>
+    </section>
 </div>
