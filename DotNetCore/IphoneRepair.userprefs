@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{DE5DF643-21FA-4145-BD76-1F4FA7F548ED}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IphoneRepair/wwwroot/css/site.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IphoneRepair/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="IphoneRepair/Views/Home/Repairs.cshtml" Line="46" Column="37" />
-      <File FileName="IphoneRepair/Views/Home/SilentTSolutions.cshtml" Line="1" Column="1" />
-      <File FileName="IphoneRepair/Views/Home/Training.cshtml" Line="1" Column="1" />
-      <File FileName="IphoneRepair/wwwroot/css/site.css" Line="330" Column="34" />
+      <File FileName="IphoneRepair/Views/Home/Repairs.cshtml" Line="34" Column="1" />
+      <File FileName="IphoneRepair/wwwroot/css/site.css" Line="337" Column="5" />
       <File FileName="IphoneRepair/Views/Home/Devices.cshtml" Line="42" Column="35" />
+      <File FileName="IphoneRepair/Views/Shared/_Layout.cshtml" Line="140" Column="63" />
+      <File FileName="IphoneRepair/Views/Home/Testimonials.cshtml" Line="53" Column="122" />
+      <File FileName="IphoneRepair/Views/Home/Index.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

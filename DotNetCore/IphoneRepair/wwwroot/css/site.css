@@ -100,12 +100,14 @@ body {
 
 .footerinfo h3 { font-size: 1.4em; margin-top: 11px; color: white; }
 
-.list-group .active { background-color: black; color: #8DB600; border: none; font-weight: bold; font-size: 1.1em; }
+.list-group .active { background-color: black; color: #599D2F; border: none; font-weight: bold; font-size: 1.1em; }
 
 
 .footerinfo a { text-align: center; }
 
 .game { height: auto; width: 100%; max-height: 300px; }
+
+#payment {margin-top: 30px;}
 
 .gamediv { margin-top: 10px; margin-bottom: 10px; }
 
@@ -114,7 +116,7 @@ body {
 
 /*repair.html*/
 
-.gradientbutton { background: #8db600; }
+.gradientbutton { background: #599D2F; }
 
 #repairbody { background-color: #353535; }
 
@@ -135,6 +137,8 @@ body {
 .largescreen { max-height: 400px; }
 
 .smallscreen { max-height: 350px; }
+
+.newbutton { margin-bottom: 10px; background-color: #599D2F; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; }
 
 /*repair.html end*/
 
@@ -204,7 +208,7 @@ body {
 
     #workshops h2 { margin-top: 0px; }
 
-.reservation { background-color: #8DB600; }
+.reservation { background-color: #599D2F; }
 
 /*#athome {
     padding-left: 50px;

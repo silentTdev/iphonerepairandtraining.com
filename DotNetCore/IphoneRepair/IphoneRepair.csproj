@@ -18,6 +18,7 @@
     <None Remove="Properties\PublishProfiles\beta.iphonerepairandtraining.com - Web Deploy.pubxml" />
     <None Remove="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Remove="EmptyHtmlFile.html" />
+    <None Remove="Properties\PublishProfiles\iPhoneRepair - Web Deploy.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
@@ -31,6 +32,7 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Properties\PublishProfiles\" />
     <Folder Include="Properties\PublishProfiles\" />
   </ItemGroup>
 
